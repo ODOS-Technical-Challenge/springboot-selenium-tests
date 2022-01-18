@@ -1,4 +1,4 @@
-package org.csanchez.selenium.example;
+package com.riva.odos.selenium.example;
 
 import java.net.URL;
 
